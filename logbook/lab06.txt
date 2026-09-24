@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - <Parth> - <21>
+SETUP: my working directory is lab06-os-and-filesystem 
+T1 prediction: I think ls / will show about working directories  items
